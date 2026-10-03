@@ -1,10 +1,23 @@
-<img width="1536" height="2048" alt="1000006466" src="https://github.com/user-attachments/assets/ae3fd15c-49f8-4555-8731-cfbd62d4b48a" />
+<h5 align="center"/>
+<img src="https://github.com/user-attachments/assets/b26e3743-5ef6-4570-8552-969d72244413" width=1547%
 .
 .
 .
 <details>
-  <summary> .ೀ </summary>
+ 
+  <details>
+  <summary> Socials   .ೀ </summary>
+<h5 align="center"/>
+<img src="https://github.com/user-attachments/assets/e165070e-396e-4f7f-9bf0-02897c7820ac" width=53% height=53%/>
 
-<p align="center"
 
- 𑣲 ‎‎[𝓢traw](https://wonderspoke.straw.page) , [𝓐ta](https://thoughts.atabook.org/).ᐟ
+ <p align="center"
+
+ 𑣲 ‎‎[𝓢traw](https://wonderspoke.straw.page) , [𝓐tabook](https://thoughts.atabook.org/) .ᐟ
+ 
+</details>
+<details>
+  <h5 align="center"/>
+    <img src="https://github.com/user-attachments/assets/750a21a5-4b5f-4c4c-b77a-2ed2def1d751" width=16%
+
+</details>
