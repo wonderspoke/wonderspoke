@@ -6,7 +6,7 @@
 <details>
  
   <details>
-  <summary> Socials   .ೀ </summary>
+  <summary>    .ೀ </summary>
 <h5 align="center"/>
 <img src="https://github.com/user-attachments/assets/e165070e-396e-4f7f-9bf0-02897c7820ac" width=53% height=53%/>
 
