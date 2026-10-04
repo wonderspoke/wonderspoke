@@ -16,8 +16,12 @@
  𑣲 ‎‎[𝓢traw](https://wonderspoke.straw.page) , [𝓐tabook](https://thoughts.atabook.org/) .ᐟ
  
 </details>
-<details>
-  <h5 align="center"/>
-    <img src="https://github.com/user-attachments/assets/750a21a5-4b5f-4c4c-b77a-2ed2def1d751" width=16%
 
-</details>
+ <summary><h5 align="center"/>
+    <img src="https://github.com/user-attachments/assets/750a21a5-4b5f-4c4c-b77a-2ed2def1d751" width=16%
+    
+
+<p align="center" 
+
+    𝓘𝐧𝐭 𝓐𝐟𝐭𝐞𝐫 𝓡𝐞𝐚𝐝𝐢𝐧𝐠, 𝐩𝐥𝐬 ᶻ 𝗓 𐰁 .ᐟ
+</summary>
