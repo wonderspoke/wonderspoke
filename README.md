@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/b26e3743-5ef6-4570-8552-969d72244413" width=1547%
 .
 .
-.
+
 <details>
  
   <details>
