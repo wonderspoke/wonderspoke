@@ -13,7 +13,7 @@
 
  <p align="center"
 
- 𑣲 ‎‎[𝓢traw](https://wonderspoke.straw.page) , [𝓐tabook](https://thoughts.atabook.org/) .ᐟ
+ 𑣲 ‎‎[𝓢traw](https://wonderspoke.straw.page) , [𝓐tabook](https://thoughts.atabook.org/) , [𝓟rns](https://en.pronouns.page/@wonderspoke) .ᐟ
  
 </details>
 
